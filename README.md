@@ -7,7 +7,7 @@
 ### The top 20 stocks ranked by the volatility factor are chosen for a particular quarter form the equal weight portfolio. 
 ### The mean variance optimisation produces risk-parity and Minimum volatility portfolios. The Equal Weight portfolio, risk-parity portfolio and Minimum volatility ### portfolios out of- sample performance is recorded against the benchmark index on a quarterly performance basis.
 ### The back-test runs in a walk-forward fashion wherein the in-sample training set data forms the rebalanced portfolio and its performance metrics are calculated ### in the subsequent next quarter against the benchmark index performance. This ensures that look ahead bias is eliminated from the back-test. A total of five ### ### quarters of performance metrics of the portfolios out of sample returns are recorded against the benchmark BSE100 index.
-### The out of sample quarterly returns series based on daily data for the five quarters are stitched together to form a continuous returns time series to ### calculate and visualise performance metrics.
+### The out of sample quarterly returns series based on daily data for the five quarters are stitched together to form a continuous returns time series to  calculate and visualise performance metrics.
 
 ## The Low Volatility Factor 
 
